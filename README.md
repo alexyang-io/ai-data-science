@@ -2,4 +2,4 @@
 Practice repository for learning Git, GitHub, and data science.
 
 
-Today is a nice day!
+I really like GitHub!
