@@ -1,0 +1,3 @@
+Problem: Identifying whether a given URL is a legitimate website or an attempt at phishing.
+Importance: Phishing attacks are an extremely common way of identity theft and also large scale corporate data breaches. By analyzing the patterns of URL's security systems can automatically flag these down as malicious before any user clicks on them.
+Data needed: URL length, special characters like (@ or -), or number of subdomains
