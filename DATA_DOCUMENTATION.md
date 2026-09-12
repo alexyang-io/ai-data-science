@@ -1,0 +1,4 @@
+Source: This data came from Akash Kumar in Kaggle.
+Size: There are 32 columns and 11056 rows.
+Features: The first column represents the index in the list while the other 31 represent possible malicious data. A 1 indicates that it does not contain that type of phishing scam. A 0 indicates that both malicious and safe links can contain that type of feature and should be taken with extreme care. A -1 marks it as dangerous with a high probability of phishing.
+Potential Problems: As the data is only classified with 3 distinct possibilities, it is not specific enough to directly indicate what is going on. Additionally, as phishing evolves, these may be overshadowed as they can disguise links. 
